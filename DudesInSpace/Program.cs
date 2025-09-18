@@ -1,3 +1,2 @@
-﻿
-using var game = new DudesInSpace.Game1();
+﻿using var game = new DudesInSpace.Game1();
 game.Run();
